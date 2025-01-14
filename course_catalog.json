@@ -29,6 +29,18 @@
         "schedule": "",
         "classroom": "",
         "prerequisites": "",
-        "grading": ""
+        "grading": "",
+        "Description": ""
+    },
+    {
+        "code": "CS 202",
+        "name": "Spectroscopy",
+        "instructor": "Nagraj",
+        "semester": "3",
+        "schedule": "J1,J2",
+        "classroom": "AB7 208",
+        "prerequisites": "",
+        "grading": "100% Attendance",
+        "Description": ""
     }
 ]
